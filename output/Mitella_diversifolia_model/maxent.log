@@ -1,0 +1,206 @@
+Mon Mar 31 10:31:39 CDT 2025
+MaxEnt version 3.4.4
+Checking header of /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/BIOCLIM_1.asc
+Checking header of /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/BIOCLIM_12.asc
+Checking header of /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/BIOCLIM_17.asc
+Checking header of /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/BIOCLIM_7.asc
+Checking header of /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/GTOPO30_ELEVATION.asc
+Checking header of /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/GTOPO30_SLOPE_reduced.asc
+Checking header of /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/ISRICSOILGRIDS_new_average_coarsefragmentpercent_reduced.asc
+Checking header of /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/ISRICSOILGRIDS_new_average_phx10percent_reduced.asc
+Checking header of /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/ISRICSOILGRIDS_new_average_sandpercent_reduced.asc
+Checking header of /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/ISRICSOILGRIDS_new_average_soilorganiccarboncontent_reduced.asc
+Checking header of /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/LandCover_1_Needleleaf.asc
+Checking header of /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/LandCover_6_Herbaceous.asc
+Reading samples from Mitella_diversifolia.csv
+Read samples: max memory 2147483648, total allocated 136314880, free 86501480, used 49813400, increment 49813400
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/BIOCLIM_1.asc size 22208231, max memory = 2147483648
+Reading file BIOCLIM_1.asc
+Time since start: 1.214
+FLOAT, 3170131 pixels with data
+readGrid: max memory 2147483648, total allocated 276824064, free 162179168, used 114644896, increment 64831496
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/maxent.cache/BIOCLIM_1.mxe
+Time since start: 2.799
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/BIOCLIM_12.asc size 25098150, max memory = 2147483648
+Reading file BIOCLIM_12.asc
+FLOAT, 3170131 pixels with data
+readGrid: max memory 2147483648, total allocated 276824064, free 116333648, used 160490416, increment 45845520
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/maxent.cache/BIOCLIM_12.mxe
+Time since start: 7.089
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/BIOCLIM_17.asc size 22282967, max memory = 2147483648
+Reading file BIOCLIM_17.asc
+FLOAT, 3170131 pixels with data
+readGrid: max memory 2147483648, total allocated 276824064, free 45685440, used 231138624, increment 70648208
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/maxent.cache/BIOCLIM_17.mxe
+Time since start: 9.087
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/BIOCLIM_7.asc size 24863533, max memory = 2147483648
+Reading file BIOCLIM_7.asc
+FLOAT, 3170131 pixels with data
+readGrid: max memory 2147483648, total allocated 276824064, free 104735184, used 172088880, increment -59049744
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/maxent.cache/BIOCLIM_7.mxe
+Time since start: 12.003
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/GTOPO30_ELEVATION.asc size 27352957, max memory = 2147483648
+Reading file GTOPO30_ELEVATION.asc
+FLOAT, 3170131 pixels with data
+readGrid: max memory 2147483648, total allocated 276824064, free 90060224, used 186763840, increment 14674960
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/maxent.cache/GTOPO30_ELEVATION.mxe
+Time since start: 16.125
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/GTOPO30_SLOPE_reduced.asc size 18835937, max memory = 2147483648
+Reading file GTOPO30_SLOPE_reduced.asc
+FLOAT, 3165084 pixels with data
+readGrid: max memory 2147483648, total allocated 276824064, free 56969136, used 219854928, increment 33091088
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/maxent.cache/GTOPO30_SLOPE_reduced.mxe
+Time since start: 18.385
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/ISRICSOILGRIDS_new_average_coarsefragmentpercent_reduced.asc size 20807135, max memory = 2147483648
+Reading file ISRICSOILGRIDS_new_average_coarsefragmentpercent_reduced.asc
+FLOAT, 3162238 pixels with data
+readGrid: max memory 2147483648, total allocated 311427072, free 173512016, used 137915056, increment -81939872
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/maxent.cache/ISRICSOILGRIDS_new_average_coarsefragmentpercent_reduced.mxe
+Time since start: 20.513
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/ISRICSOILGRIDS_new_average_phx10percent_reduced.asc size 21717219, max memory = 2147483648
+Reading file ISRICSOILGRIDS_new_average_phx10percent_reduced.asc
+FLOAT, 3162192 pixels with data
+readGrid: max memory 2147483648, total allocated 311427072, free 78899680, used 232527392, increment 94612336
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/maxent.cache/ISRICSOILGRIDS_new_average_phx10percent_reduced.mxe
+Time since start: 22.211
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/ISRICSOILGRIDS_new_average_sandpercent_reduced.asc size 21717022, max memory = 2147483648
+Reading file ISRICSOILGRIDS_new_average_sandpercent_reduced.asc
+FLOAT, 3162192 pixels with data
+readGrid: max memory 2147483648, total allocated 311427072, free 145457328, used 165969744, increment -66557648
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/maxent.cache/ISRICSOILGRIDS_new_average_sandpercent_reduced.mxe
+Time since start: 24.154
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/ISRICSOILGRIDS_new_average_soilorganiccarboncontent_reduced.asc size 21630961, max memory = 2147483648
+Reading file ISRICSOILGRIDS_new_average_soilorganiccarboncontent_reduced.asc
+FLOAT, 3162239 pixels with data
+readGrid: max memory 2147483648, total allocated 311427072, free 129581240, used 181845832, increment 15876088
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/maxent.cache/ISRICSOILGRIDS_new_average_soilorganiccarboncontent_reduced.mxe
+Time since start: 26.431
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/LandCover_1_Needleleaf.asc size 20204246, max memory = 2147483648
+Reading file LandCover_1_Needleleaf.asc
+FLOAT, 3189864 pixels with data
+readGrid: max memory 2147483648, total allocated 238026752, free 180376896, used 57649856, increment -124195976
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/maxent.cache/LandCover_1_Needleleaf.mxe
+Time since start: 28.282
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/LandCover_6_Herbaceous.asc size 20459843, max memory = 2147483648
+Reading file LandCover_6_Herbaceous.asc
+FLOAT, 3189864 pixels with data
+readGrid: max memory 2147483648, total allocated 238026752, free 107269824, used 130756928, increment 73107072
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers/maxent.cache/LandCover_6_Herbaceous.mxe
+Time since start: 30.512
+Extractor: max memory 2147483648, total allocated 238026752, free 48022736, used 190004016, increment 59247088
+Extracting random background and sample data
+Time since start: 32.964
+3152561 points with values for all grids
+Adding samples to background in feature space
+Command line used: 
+Command line to repeat: java density.MaxEnt nowarnings noprefixes responsecurves jackknife outputdirectory=/Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model projectionlayers=/Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers samplesfile=/Users/ryanfolk/Documents/GitHub/maxent_ex/occurrences/Mitella_diversifolia.csv environmentallayers=/Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers randomseed randomtestpoints=25 replicates=10 replicatetype=bootstrap noextrapolate
+Species: Mitella_diversifolia_0 Mitella_diversifolia_1 Mitella_diversifolia_2 Mitella_diversifolia_3 Mitella_diversifolia_4 Mitella_diversifolia_5 Mitella_diversifolia_6 Mitella_diversifolia_7 Mitella_diversifolia_8 Mitella_diversifolia_9
+Layers: BIOCLIM_1 BIOCLIM_12 BIOCLIM_17 BIOCLIM_7 GTOPO30_ELEVATION GTOPO30_SLOPE_reduced ISRICSOILGRIDS_new_average_coarsefragmentpercent_reduced ISRICSOILGRIDS_new_average_phx10percent_reduced ISRICSOILGRIDS_new_average_sandpercent_reduced ISRICSOILGRIDS_new_average_soilorganiccarboncontent_reduced LandCover_1_Needleleaf LandCover_6_Herbaceous
+Layertypes: Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous
+responsecurves: true
+jackknife: true
+outputdirectory: /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model
+projectionlayers: /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers
+samplesfile: /Users/ryanfolk/Documents/GitHub/maxent_ex/occurrences/Mitella_diversifolia.csv
+environmentallayers: /Users/ryanfolk/Documents/GitHub/maxent_ex/pacific_northwest_layers
+randomseed: true
+randomtestpoints: 25
+replicates: 10
+replicatetype: bootstrap
+extrapolate: false
+
+getSamples: max memory 2147483648, total allocated 238026752, free 115101240, used 122925512, increment -67078504
+Making features
+makeFeatures: max memory 2147483648, total allocated 238026752, free 95355256, used 142671496, increment 19745984
+Mitella_diversifolia_0: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 238026752, free 83099408, used 154927344, increment 12255848
+linearPredictor: max memory 2147483648, total allocated 238026752, free 83099408, used 154927344, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 238026752, free 83099408, used 154927344, increment 0
+Sequential: max memory 2147483648, total allocated 238026752, free 83099408, used 154927344, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+Time since start: 35.985
+500: time = 2.474000 loss = 6.008102 testLoss 6.174520
+Resulting gain: 3.2055333888669537
+Projecting...
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model/Mitella_diversifolia_0.asc
+Time since start: 49.068
+Writing /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model/plots/Mitella_diversifolia_0.png
+Time since start: 50.244
+Projecting...
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/BIOCLIM_1.asc size 40777613, max memory = 2147483648
+Reading file BIOCLIM_1.asc
+Time since start: 51.973
+SHORT, 2222468 pixels with data
+readGrid: max memory 2147483648, total allocated 286261248, free 63468064, used 222793184, increment 67865840
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/maxent.cache/BIOCLIM_1.mxe
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/BIOCLIM_12.asc size 41255001, max memory = 2147483648
+Reading file BIOCLIM_12.asc
+Time since start: 54.081
+SHORT, 2222501 pixels with data
+readGrid: max memory 2147483648, total allocated 343932928, free 92421768, used 251511160, increment 28717976
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/maxent.cache/BIOCLIM_12.mxe
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/BIOCLIM_17.asc size 38726944, max memory = 2147483648
+Reading file BIOCLIM_17.asc
+Time since start: 55.814
+SHORT, 2222501 pixels with data
+readGrid: max memory 2147483648, total allocated 413138944, free 141793656, used 271345288, increment 19834128
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/maxent.cache/BIOCLIM_17.mxe
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/BIOCLIM_7.asc size 40947844, max memory = 2147483648
+Reading file BIOCLIM_7.asc
+Time since start: 57.419
+SHORT, 2222468 pixels with data
+readGrid: max memory 2147483648, total allocated 413138944, free 110045328, used 303093616, increment 31748328
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/maxent.cache/BIOCLIM_7.mxe
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/GTOPO30_ELEVATION.asc size 40996138, max memory = 2147483648
+Reading file GTOPO30_ELEVATION.asc
+Time since start: 59.234
+SHORT, 2224675 pixels with data
+readGrid: max memory 2147483648, total allocated 413138944, free 74788248, used 338350696, increment 35257080
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/maxent.cache/GTOPO30_ELEVATION.mxe
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/GTOPO30_SLOPE_reduced.asc size 36655212, max memory = 2147483648
+Reading file GTOPO30_SLOPE_reduced.asc
+Time since start: 61.442
+SIGNEDBYTE, 2206786 pixels with data
+readGrid: max memory 2147483648, total allocated 769654784, free 265482280, used 504172504, increment 165821808
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/maxent.cache/GTOPO30_SLOPE_reduced.mxe
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/ISRICSOILGRIDS_new_average_coarsefragmentpercent_reduced.asc size 37753416, max memory = 2147483648
+Reading file ISRICSOILGRIDS_new_average_coarsefragmentpercent_reduced.asc
+Time since start: 63.303
+SIGNEDBYTE, 2116324 pixels with data
+readGrid: max memory 2147483648, total allocated 769654784, free 251272608, used 518382176, increment 14209672
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/maxent.cache/ISRICSOILGRIDS_new_average_coarsefragmentpercent_reduced.mxe
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/ISRICSOILGRIDS_new_average_phx10percent_reduced.asc size 39065289, max memory = 2147483648
+Reading file ISRICSOILGRIDS_new_average_phx10percent_reduced.asc
+Time since start: 64.795
+SIGNEDBYTE, 2116149 pixels with data
+readGrid: max memory 2147483648, total allocated 769654784, free 131068176, used 638586608, increment 120204432
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/maxent.cache/ISRICSOILGRIDS_new_average_phx10percent_reduced.mxe
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/ISRICSOILGRIDS_new_average_sandpercent_reduced.asc size 39064407, max memory = 2147483648
+Reading file ISRICSOILGRIDS_new_average_sandpercent_reduced.asc
+Time since start: 66.33
+SIGNEDBYTE, 2116149 pixels with data
+readGrid: max memory 2147483648, total allocated 769654784, free 343059280, used 426595504, increment -211991104
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/maxent.cache/ISRICSOILGRIDS_new_average_sandpercent_reduced.mxe
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/ISRICSOILGRIDS_new_average_soilorganiccarboncontent_reduced.asc size 39290017, max memory = 2147483648
+Reading file ISRICSOILGRIDS_new_average_soilorganiccarboncontent_reduced.asc
+Time since start: 67.66
+SHORT, 2116364 pixels with data
+readGrid: max memory 2147483648, total allocated 769654784, free 281090360, used 488564424, increment 61968920
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/maxent.cache/ISRICSOILGRIDS_new_average_soilorganiccarboncontent_reduced.mxe
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/LandCover_1_Needleleaf.asc size 15551102, max memory = 2147483648
+Reading file LandCover_1_Needleleaf.asc
+Time since start: 69.197
+SIGNEDBYTE, 7568640 pixels with data
+readGrid: max memory 2147483648, total allocated 769654784, free 217887192, used 551767592, increment 63203168
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/maxent.cache/LandCover_1_Needleleaf.mxe
+Converting file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/LandCover_6_Herbaceous.asc size 15752181, max memory = 2147483648
+Reading file LandCover_6_Herbaceous.asc
+Time since start: 70.369
+SIGNEDBYTE, 7568640 pixels with data
+readGrid: max memory 2147483648, total allocated 769654784, free 183902320, used 585752464, increment 33984872
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/maxent.cache/LandCover_6_Herbaceous.mxe
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model/Mitella_diversifolia_0_projection_layers.asc
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model/Mitella_diversifolia_0_projection_layers_clamping.asc
