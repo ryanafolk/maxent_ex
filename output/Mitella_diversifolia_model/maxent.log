@@ -204,3 +204,581 @@ readGrid: max memory 2147483648, total allocated 769654784, free 183902320, used
 Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/projection_layers/maxent.cache/LandCover_6_Herbaceous.mxe
 Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model/Mitella_diversifolia_0_projection_layers.asc
 Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model/Mitella_diversifolia_0_projection_layers_clamping.asc
+Time since start: 81.198
+Writing /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model/plots/Mitella_diversifolia_0_projection_layers.png
+Time since start: 83.035
+Writing /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model/plots/Mitella_diversifolia_0_projection_layers_clamping.png
+Time since start: 85.069
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model/Mitella_diversifolia_0_projection_layers_novel.asc
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model/Mitella_diversifolia_0_projection_layers_novel_limiting.asc
+Time since start: 95.74
+Mitella_diversifolia_0 response curves
+Response curve: only BIOCLIM_1
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 345897592, used 423757192, increment -161995272
+Mitella_diversifolia_0 BIOCLIM_1: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 344550112, used 425104672, increment 1347480
+linearPredictor: max memory 2147483648, total allocated 769654784, free 344550112, used 425104672, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 344550112, used 425104672, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 344550112, used 425104672, increment 0
+Initial loss: 9.213634938925614
+140: time = 0.322000 loss = 8.832501
+Resulting gain: 0.3811341749593069
+Mitella_diversifolia_0 response curves
+Response curve: only BIOCLIM_12
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 325452408, used 444202376, increment 19097704
+Mitella_diversifolia_0 BIOCLIM_12: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 324020552, used 445634232, increment 1431856
+linearPredictor: max memory 2147483648, total allocated 769654784, free 323940272, used 445714512, increment 80280
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 323940272, used 445714512, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 323940272, used 445714512, increment 0
+Initial loss: 9.213634938925614
+Time since start: 97.044
+300: time = 0.557000 loss = 8.057748
+Resulting gain: 1.1558866109395645
+Mitella_diversifolia_0 response curves
+Response curve: only BIOCLIM_17
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 213335056, used 556319728, increment 110605216
+Mitella_diversifolia_0 BIOCLIM_17: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 211903568, used 557751216, increment 1431488
+linearPredictor: max memory 2147483648, total allocated 769654784, free 211903568, used 557751216, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 211903568, used 557751216, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 211903568, used 557751216, increment 0
+Initial loss: 9.213634938925614
+200: time = 0.307000 loss = 8.898491
+Resulting gain: 0.3151437430184991
+Mitella_diversifolia_0 response curves
+Response curve: only BIOCLIM_7
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 188169232, used 581485552, increment 23734336
+Mitella_diversifolia_0 BIOCLIM_7: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 187263712, used 582391072, increment 905520
+linearPredictor: max memory 2147483648, total allocated 769654784, free 187263712, used 582391072, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 187263712, used 582391072, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 187263712, used 582391072, increment 0
+Initial loss: 9.213634938925614
+260: time = 0.382000 loss = 8.006070
+Resulting gain: 1.2075644840046635
+Mitella_diversifolia_0 response curves
+Response curve: only GTOPO30_ELEVATION
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 152928928, used 616725856, increment 34334784
+Mitella_diversifolia_0 GTOPO30_ELEVATION: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 151085792, used 618568992, increment 1843136
+linearPredictor: max memory 2147483648, total allocated 769654784, free 151085792, used 618568992, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 151085792, used 618568992, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 151085792, used 618568992, increment 0
+Initial loss: 9.213634938925614
+Time since start: 98.351
+180: time = 0.446000 loss = 8.639413
+Resulting gain: 0.5742216533883528
+Mitella_diversifolia_0 response curves
+Response curve: only GTOPO30_SLOPE_reduced
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 325380968, used 444273816, increment -174295176
+Mitella_diversifolia_0 GTOPO30_SLOPE_reduced: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 324332392, used 445322392, increment 1048576
+linearPredictor: max memory 2147483648, total allocated 769654784, free 324332392, used 445322392, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 324332392, used 445322392, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 324332392, used 445322392, increment 0
+Initial loss: 9.213634938925614
+140: time = 0.228000 loss = 8.704954
+Resulting gain: 0.5086809732368955
+Mitella_diversifolia_0 response curves
+Response curve: only ISRICSOILGRIDS_new_average_coarsefragmentpercent_reduced
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 311749480, used 457905304, increment 12582912
+Mitella_diversifolia_0 ISRICSOILGRIDS_new_average_coarsefragmentpercent_reduced: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 310700904, used 458953880, increment 1048576
+linearPredictor: max memory 2147483648, total allocated 769654784, free 310700904, used 458953880, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 310700904, used 458953880, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 310700904, used 458953880, increment 0
+Initial loss: 9.213634938925614
+100: time = 0.187000 loss = 8.908393
+Resulting gain: 0.3052414833707555
+Mitella_diversifolia_0 response curves
+Response curve: only ISRICSOILGRIDS_new_average_phx10percent_reduced
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 297894656, used 471760128, increment 12806248
+Mitella_diversifolia_0 ISRICSOILGRIDS_new_average_phx10percent_reduced: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 296536920, used 473117864, increment 1357736
+linearPredictor: max memory 2147483648, total allocated 769654784, free 296536920, used 473117864, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 296536920, used 473117864, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 296536920, used 473117864, increment 0
+Initial loss: 9.213634938925614
+180: time = 0.239000 loss = 8.095152
+Resulting gain: 1.1184832480608744
+Mitella_diversifolia_0 response curves
+Response curve: only ISRICSOILGRIDS_new_average_sandpercent_reduced
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 279622808, used 490031976, increment 16914112
+Mitella_diversifolia_0 ISRICSOILGRIDS_new_average_sandpercent_reduced: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 278528000, used 491126784, increment 1094808
+linearPredictor: max memory 2147483648, total allocated 769654784, free 278528000, used 491126784, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 278528000, used 491126784, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 278528000, used 491126784, increment 0
+Initial loss: 9.213634938925614
+80: time = 0.168000 loss = 9.093429
+Resulting gain: 0.12020609200519061
+Mitella_diversifolia_0 response curves
+Time since start: 99.361
+Response curve: only ISRICSOILGRIDS_new_average_soilorganiccarboncontent_reduced
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 267039896, used 502614888, increment 11488104
+Mitella_diversifolia_0 ISRICSOILGRIDS_new_average_soilorganiccarboncontent_reduced: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 265837928, used 503816856, increment 1201968
+linearPredictor: max memory 2147483648, total allocated 769654784, free 265837928, used 503816856, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 265837928, used 503816856, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 265837928, used 503816856, increment 0
+Initial loss: 9.213634938925614
+160: time = 0.299000 loss = 8.511234
+Resulting gain: 0.7024005210847388
+Mitella_diversifolia_0 response curves
+Response curve: only LandCover_1_Needleleaf
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 244497560, used 525157224, increment 21340368
+Mitella_diversifolia_0 LandCover_1_Needleleaf: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 243592040, used 526062744, increment 905520
+linearPredictor: max memory 2147483648, total allocated 769654784, free 243592040, used 526062744, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 243592040, used 526062744, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 243592040, used 526062744, increment 0
+Initial loss: 9.213634938925614
+220: time = 0.349000 loss = 7.780763
+Resulting gain: 1.432871474042054
+Mitella_diversifolia_0 response curves
+Response curve: only LandCover_6_Herbaceous
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 222999704, used 546655080, increment 20592336
+Mitella_diversifolia_0 LandCover_6_Herbaceous: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 222094184, used 547560600, increment 905520
+linearPredictor: max memory 2147483648, total allocated 769654784, free 222094184, used 547560600, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 222094184, used 547560600, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 222094184, used 547560600, increment 0
+Initial loss: 9.213634938925614
+Time since start: 100.43
+100: time = 0.314000 loss = 8.261287
+Resulting gain: 0.9523474627143607
+Mitella_diversifolia_0 response curves
+Jackknife: leave BIOCLIM_1 out
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 124650952, used 645003832, increment 97443232
+Mitella_diversifolia_0 BIOCLIM_1: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 113568616, used 656086168, increment 11082336
+linearPredictor: max memory 2147483648, total allocated 769654784, free 113568616, used 656086168, increment 0
+Time since start: 101.432
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 113568616, used 656086168, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 113568616, used 656086168, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+Time since start: 103.3
+440: time = 1.867000 loss = 6.064275 testLoss 6.250280
+Jackknife: leave BIOCLIM_12 out
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 376227336, used 393427448, increment -262658720
+Mitella_diversifolia_0 BIOCLIM_12: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 366263816, used 403390968, increment 9963520
+linearPredictor: max memory 2147483648, total allocated 769654784, free 366183536, used 403471248, increment 80280
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 366183536, used 403471248, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 366183536, used 403471248, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+Time since start: 105.516
+500: time = 1.881000 loss = 6.100260 testLoss 6.284875
+Jackknife: leave BIOCLIM_17 out
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 149754744, used 619900040, increment 216428792
+Mitella_diversifolia_0 BIOCLIM_17: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 139213864, used 630440920, increment 10540880
+linearPredictor: max memory 2147483648, total allocated 769654784, free 139213864, used 630440920, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 139213864, used 630440920, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 139213864, used 630440920, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+Time since start: 107.749
+500: time = 1.976000 loss = 6.194402 testLoss 6.883607
+Jackknife: leave BIOCLIM_7 out
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 289489896, used 480164888, increment -150276032
+Mitella_diversifolia_0 BIOCLIM_7: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 279682128, used 489972656, increment 9807768
+linearPredictor: max memory 2147483648, total allocated 769654784, free 279682128, used 489972656, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 279682128, used 489972656, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 279680080, used 489974704, increment 2048
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+Time since start: 110.021
+500: time = 2.012000 loss = 6.057278 testLoss 6.314714
+Jackknife: leave GTOPO30_ELEVATION out
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 169444728, used 600210056, increment 110235352
+Mitella_diversifolia_0 GTOPO30_ELEVATION: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 159932592, used 609722192, increment 9512136
+linearPredictor: max memory 2147483648, total allocated 769654784, free 159852312, used 609802472, increment 80280
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 159852312, used 609802472, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 159852312, used 609802472, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+Time since start: 111.799
+500: time = 1.597000 loss = 6.073633 testLoss 6.242371
+Jackknife: leave GTOPO30_SLOPE_reduced out
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 276947688, used 492707096, increment -117095376
+Mitella_diversifolia_0 GTOPO30_SLOPE_reduced: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 266911264, used 502743520, increment 10036424
+linearPredictor: max memory 2147483648, total allocated 769654784, free 266911264, used 502743520, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 266911264, used 502743520, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 266911264, used 502743520, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+Time since start: 113.765
+500: time = 1.778000 loss = 6.176629 testLoss 6.243855
+Jackknife: leave ISRICSOILGRIDS_new_average_coarsefragmentpercent_reduced out
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 289126928, used 480527856, increment -22215664
+Mitella_diversifolia_0 ISRICSOILGRIDS_new_average_coarsefragmentpercent_reduced: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 278992720, used 490662064, increment 10134208
+linearPredictor: max memory 2147483648, total allocated 769654784, free 278992720, used 490662064, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 278992720, used 490662064, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 278992720, used 490662064, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+Time since start: 115.921
+500: time = 1.982000 loss = 6.015809 testLoss 6.135790
+Jackknife: leave ISRICSOILGRIDS_new_average_phx10percent_reduced out
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 265104776, used 504550008, increment 13887944
+Mitella_diversifolia_0 ISRICSOILGRIDS_new_average_phx10percent_reduced: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 255266248, used 514388536, increment 9838528
+linearPredictor: max memory 2147483648, total allocated 769654784, free 255185968, used 514468816, increment 80280
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 255185968, used 514468816, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 255185968, used 514468816, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+Time since start: 118.03
+500: time = 1.905000 loss = 6.009184 testLoss 6.185318
+Jackknife: leave ISRICSOILGRIDS_new_average_sandpercent_reduced out
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 220010048, used 549644736, increment 35175920
+Mitella_diversifolia_0 ISRICSOILGRIDS_new_average_sandpercent_reduced: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 210204872, used 559449912, increment 9805176
+linearPredictor: max memory 2147483648, total allocated 769654784, free 210124592, used 559530192, increment 80280
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 210124592, used 559530192, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 210124592, used 559530192, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+Time since start: 119.974
+500: time = 1.757000 loss = 6.036797 testLoss 6.323490
+Jackknife: leave ISRICSOILGRIDS_new_average_soilorganiccarboncontent_reduced out
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 147747472, used 621907312, increment 62377120
+Mitella_diversifolia_0 ISRICSOILGRIDS_new_average_soilorganiccarboncontent_reduced: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 137605664, used 632049120, increment 10141808
+linearPredictor: max memory 2147483648, total allocated 769654784, free 137605664, used 632049120, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 137605664, used 632049120, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 137605664, used 632049120, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+Time since start: 121.971
+500: time = 1.831000 loss = 6.070168 testLoss 6.171560
+Jackknife: leave LandCover_1_Needleleaf out
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 218154240, used 551500544, increment -80548576
+Mitella_diversifolia_0 LandCover_1_Needleleaf: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 208155488, used 561499296, increment 9998752
+linearPredictor: max memory 2147483648, total allocated 769654784, free 208155488, used 561499296, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 208155488, used 561499296, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 208155488, used 561499296, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+Time since start: 123.97
+500: time = 1.820000 loss = 6.097141 testLoss 5.960306
+Jackknife: leave LandCover_6_Herbaceous out
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 261637392, used 508017392, increment -53481904
+Mitella_diversifolia_0 LandCover_6_Herbaceous: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 251951248, used 517703536, increment 9686144
+linearPredictor: max memory 2147483648, total allocated 769654784, free 251870968, used 517783816, increment 80280
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 251870968, used 517783816, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 251870968, used 517783816, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+Time since start: 125.968
+500: time = 1.817000 loss = 6.011969 testLoss 6.233061
+Jackknife: only BIOCLIM_1
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 128555512, used 641099272, increment 123315456
+Mitella_diversifolia_0 BIOCLIM_1: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 127181456, used 642473328, increment 1374056
+linearPredictor: max memory 2147483648, total allocated 769654784, free 127181456, used 642473328, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 127181456, used 642473328, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 127181456, used 642473328, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+140: time = 0.234000 loss = 8.832501 testLoss 8.866422
+Res.gain: 0.3811341749593069
+Jackknife: only BIOCLIM_12
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 268661424, used 500993360, increment -141479968
+Mitella_diversifolia_0 BIOCLIM_12: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 267603728, used 502051056, increment 1057696
+linearPredictor: max memory 2147483648, total allocated 769654784, free 267523448, used 502131336, increment 80280
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 267523448, used 502131336, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 267523448, used 502131336, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+300: time = 0.491000 loss = 8.057748 testLoss 8.216960
+Res.gain: 1.1558866109395645
+Jackknife: only BIOCLIM_17
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 160790200, used 608864584, increment 106733248
+Mitella_diversifolia_0 BIOCLIM_17: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 159600400, used 610054384, increment 1189800
+linearPredictor: max memory 2147483648, total allocated 769654784, free 159600400, used 610054384, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 159600400, used 610054384, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 159600400, used 610054384, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+Time since start: 127.036
+200: time = 0.283000 loss = 8.898491 testLoss 8.589090
+Res.gain: 0.3151437430184991
+Jackknife: only BIOCLIM_7
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 139835352, used 629819432, increment 19765048
+Mitella_diversifolia_0 BIOCLIM_7: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 138628880, used 631025904, increment 1206472
+linearPredictor: max memory 2147483648, total allocated 769654784, free 138548600, used 631106184, increment 80280
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 138548600, used 631106184, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 138548600, used 631106184, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+260: time = 0.347000 loss = 8.006070 testLoss 7.815068
+Res.gain: 1.2075644840046635
+Jackknife: only GTOPO30_ELEVATION
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 265315392, used 504339392, increment -126766792
+Mitella_diversifolia_0 GTOPO30_ELEVATION: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 264186536, used 505468248, increment 1128856
+linearPredictor: max memory 2147483648, total allocated 769654784, free 264106256, used 505548528, increment 80280
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 264106256, used 505548528, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 264106256, used 505548528, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+180: time = 0.375000 loss = 8.639413 testLoss 8.572923
+Res.gain: 0.5742216533883528
+Jackknife: only GTOPO30_SLOPE_reduced
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 152590808, used 617063976, increment 111515448
+Mitella_diversifolia_0 GTOPO30_SLOPE_reduced: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 151504616, used 618150168, increment 1086192
+linearPredictor: max memory 2147483648, total allocated 769654784, free 151424336, used 618230448, increment 80280
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 151424336, used 618230448, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 151424336, used 618230448, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+Time since start: 128.062
+140: time = 0.256000 loss = 8.704954 testLoss 8.759038
+Res.gain: 0.5086809732368955
+Jackknife: only ISRICSOILGRIDS_new_average_coarsefragmentpercent_reduced
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 142060776, used 627594008, increment 9363560
+Mitella_diversifolia_0 ISRICSOILGRIDS_new_average_coarsefragmentpercent_reduced: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 141057088, used 628597696, increment 1003688
+linearPredictor: max memory 2147483648, total allocated 769654784, free 141057088, used 628597696, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 141057088, used 628597696, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 141057088, used 628597696, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+100: time = 0.203000 loss = 8.908393 testLoss 8.801540
+Res.gain: 0.3052414833707555
+Jackknife: only ISRICSOILGRIDS_new_average_phx10percent_reduced
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 132256416, used 637398368, increment 8800672
+Mitella_diversifolia_0 ISRICSOILGRIDS_new_average_phx10percent_reduced: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 131088688, used 638566096, increment 1167728
+linearPredictor: max memory 2147483648, total allocated 769654784, free 130564400, used 639090384, increment 524288
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 130564400, used 639090384, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 130564400, used 639090384, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+180: time = 0.247000 loss = 8.095152 testLoss 8.496346
+Res.gain: 1.1184832480608744
+Jackknife: only ISRICSOILGRIDS_new_average_sandpercent_reduced
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 117515856, used 652138928, increment 13048544
+Mitella_diversifolia_0 ISRICSOILGRIDS_new_average_sandpercent_reduced: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 116591392, used 653063392, increment 924464
+linearPredictor: max memory 2147483648, total allocated 769654784, free 116511112, used 653143672, increment 80280
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 116511112, used 653143672, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 116511112, used 653143672, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+80: time = 0.162000 loss = 9.093429 testLoss 8.965573
+Res.gain: 0.12020609200519061
+Jackknife: only ISRICSOILGRIDS_new_average_soilorganiccarboncontent_reduced
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 266556344, used 503098440, increment -150045232
+Mitella_diversifolia_0 ISRICSOILGRIDS_new_average_soilorganiccarboncontent_reduced: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 265612592, used 504042192, increment 943752
+linearPredictor: max memory 2147483648, total allocated 769654784, free 265532312, used 504122472, increment 80280
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 265532312, used 504122472, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 265532312, used 504122472, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+160: time = 0.229000 loss = 8.511234 testLoss 8.636617
+Res.gain: 0.7024005210847388
+Jackknife: only LandCover_1_Needleleaf
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 248634816, used 521019968, increment 16897496
+Mitella_diversifolia_0 LandCover_1_Needleleaf: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 247706520, used 521948264, increment 928296
+linearPredictor: max memory 2147483648, total allocated 769654784, free 247626240, used 522028544, increment 80280
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 247626240, used 522028544, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 247626240, used 522028544, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+Time since start: 129.271
+220: time = 0.306000 loss = 7.780763 testLoss 8.385254
+Res.gain: 1.432871474042054
+Jackknife: only LandCover_6_Herbaceous
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 231383160, used 538271624, increment 16243080
+Mitella_diversifolia_0 LandCover_6_Herbaceous: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 229999240, used 539655544, increment 1383920
+linearPredictor: max memory 2147483648, total allocated 769654784, free 229999240, used 539655544, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 229999240, used 539655544, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 229999240, used 539655544, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+100: time = 0.230000 loss = 8.261287 testLoss 8.163236
+Res.gain: 0.9523474627143607
+getSamples: max memory 2147483648, total allocated 769654784, free 207456904, used 562197880, increment 22542336
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 193418688, used 576236096, increment 14038216
+Mitella_diversifolia_1: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 182775088, used 586879696, increment 10643600
+linearPredictor: max memory 2147483648, total allocated 769654784, free 182775088, used 586879696, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 182775088, used 586879696, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 182775088, used 586879696, increment 0
+Initial loss: 9.213634938925614
+Initial test loss: 9.213634938925614
+Time since start: 131.742
+500: time = 1.965000 loss = 6.319630 testLoss 6.267461
+Resulting gain: 2.894004646393192
+Projecting...
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model/Mitella_diversifolia_1.asc
+Time since start: 145.574
+Writing /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model/plots/Mitella_diversifolia_1.png
+Time since start: 146.654
+Projecting...
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model/Mitella_diversifolia_1_projection_layers.asc
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model/Mitella_diversifolia_1_projection_layers_clamping.asc
+Time since start: 157.624
+Writing /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model/plots/Mitella_diversifolia_1_projection_layers.png
+Time since start: 159.221
+Writing /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model/plots/Mitella_diversifolia_1_projection_layers_clamping.png
+Time since start: 160.972
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model/Mitella_diversifolia_1_projection_layers_novel.asc
+Writing file /Users/ryanfolk/Documents/GitHub/maxent_ex/output/Mitella_diversifolia_model/Mitella_diversifolia_1_projection_layers_novel_limiting.asc
+Time since start: 171.27
+Mitella_diversifolia_1 response curves
+Response curve: only BIOCLIM_1
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 616080648, used 153574136, increment -433305560
+Mitella_diversifolia_1 BIOCLIM_1: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 615277824, used 154376960, increment 802824
+linearPredictor: max memory 2147483648, total allocated 769654784, free 615197544, used 154457240, increment 80280
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 615197544, used 154457240, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 615197544, used 154457240, increment 0
+Initial loss: 9.213634938925614
+100: time = 0.178000 loss = 9.011675
+Resulting gain: 0.20196036484403024
+Mitella_diversifolia_1 response curves
+Response curve: only BIOCLIM_12
+Making features
+makeFeatures: max memory 2147483648, total allocated 769654784, free 600512032, used 169142752, increment 14685512
+Mitella_diversifolia_1 BIOCLIM_12: 
+Regularization values: linear/quadratic/product: 0.241, categorical: 0.250, threshold: 1.670, hinge: 0.500
+33 samples
+Density: max memory 2147483648, total allocated 769654784, free 599463456, used 170191328, increment 1048576
+linearPredictor: max memory 2147483648, total allocated 769654784, free 599463456, used 170191328, increment 0
+FeaturedSpace: max memory 2147483648, total allocated 769654784, free 599463456, used 170191328, increment 0
+Sequential: max memory 2147483648, total allocated 769654784, free 599463456, used 170191328, increment 0
+Initial loss: 9.213634938925614
